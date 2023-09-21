@@ -1,0 +1,15 @@
+//
+//  SceneDelegate.h
+//  LoppityLoopsHaircuts
+//
+//  Created by Mariano Martin Battaglia on 03/01/2023.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface SceneDelegate : UIResponder <UIWindowSceneDelegate>
+
+@property (strong, nonatomic) UIWindow * window;
+
+@end
+
